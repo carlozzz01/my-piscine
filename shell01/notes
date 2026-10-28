@@ -1,0 +1,12 @@
+shell01
+
+ex01
+
+> id bocal
+uid=1000(bocal) gid=1000(bocal) groups=4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),110(lxd),121(lpadmin),142(libvirt),1000(bocal)
+
+> id daemon
+uid=1(daemon) gid=1(daemon) groups=1(daemon)
+
+> id bin
+uid=2(bin) gid=2(bin) groups=2(bin)
